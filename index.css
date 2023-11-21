@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+  }
+  .profile{
+    margin-top: 100px;
+    justify-content: center;
+    display: flex;
+  }
+  .ima{
+    box-shadow: 0px 0px 5px  black;
+    height: 17vh;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    position: relative;
+  }
+  .profile-image{
+    position: relative;
+    margin-top: 18px;
+    border: 3px solid #ffff;
+    /* border-radius: 10px; */
+    padding: 1px;
+    width: 110px;
+    height: 20vh;
+    border-radius: 70%;
+  }
+  .profile-text{
+    box-shadow: 0px 0px 5px  black;
+    padding-top: 40px;
+    width: 300px;
+    /* height: 190px; */
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+  }
+  .tex>h1{
+    justify-content: center;
+    display: flex; 
+  }
+  .tex>p{
+    justify-content: center;
+    display: flex; 
+  }
+  .icons{
+    justify-content: center;
+    display: flex; 
+  }
+  .icon{
+    padding: 0 .5rem;
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  .btns{
+    justify-content: center;
+    margin: 0 .5rem;
+    display: flex;
+  }
+  .btn{
+    border-radius: 15px;
+    color: #fff;
+    background-color: blue;
+    border: none;
+    margin: 0 .5rem;
+    margin-top: 15px;
+    padding: .5rem 1rem;
+  }
+  .btn:hover{
+    color: black;
+    background-color: transparent;
+  }
+  .profile-view{
+    margin-top: 15px;
+    justify-content: center;
+    padding: 0 .5rem;
+    display: flex;
+  }
+  .profile-view>h1{
+    padding: 0 1rem;
+    font-size: 18px;
+  }
+  .icon_1{
+    font-size: 20px;
+  }
